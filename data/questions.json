@@ -1,0 +1,26 @@
+[
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris",
+      "image": null
+    },
+    {
+      "id": "q2",
+      "type": "fill-in",
+      "question": "_____ is the largest planet in our solar system.",
+      "answer": "JUPITER",
+      "image": null
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Identify this landmark.",
+      "options": ["Eiffel Tower", "Colosseum", "Big Ben", "Statue of Liberty"],
+      "answer": "Eiffel Tower",
+      "image": "https://example.com/eiffel.jpg"
+    }
+  ]
+  
