@@ -11,11 +11,13 @@ A backend quiz API built with Node.js and Express. This project powers a quiz ap
 - Handle **image-based** questions
 - Provide **real-time answer evaluation**
 - Designed to scale with analytics, timers, and scoring logic (Yet to be done)
+- Select Questions based on the difficuly (easy or Hard)
 
 ---
 
 ## 🛠️ Tech Stack
 
+- Reactjs
 - Node.js
 - Express.js
 - JSON (for data storage)

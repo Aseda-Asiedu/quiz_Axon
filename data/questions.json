@@ -2,6 +2,7 @@
     {
       "id": "q1",
       "type": "multiple-choice",
+      "difficulty": "easy", 
       "question": "What is the capital of France?",
       "options": ["Berlin", "Madrid", "Paris", "Rome"],
       "answer": "Paris",
@@ -10,6 +11,7 @@
     {
       "id": "q2",
       "type": "fill-in",
+      "difficulty": "easy",
       "question": "_____ is the largest planet in our solar system.",
       "answer": "JUPITER",
       "image": null
@@ -17,10 +19,185 @@
     {
       "id": "q3",
       "type": "multiple-choice",
+      "difficulty": "easy",
       "question": "Identify this landmark.",
       "options": ["Eiffel Tower", "Colosseum", "Big Ben", "Statue of Liberty"],
       "answer": "Eiffel Tower",
-      "image": "https://example.com/eiffel.jpg"
-    }
+      "image": null
+    },
+      {
+        "id": "q1",
+        "type": "multiple-choice",
+        "difficulty": "easy",
+        "question": "What is the capital of Ghana?",
+        "options": ["Accra", "Kumasi", "Tamale", "Cape Coast"],
+        "answer": "Accra",
+        "image": null
+      },
+      {
+        "id": "q2",
+        "type": "multiple-choice",
+        "difficulty": "easy",
+        "question": "Which currency is used in Ghana?",
+        "options": ["Cedi", "Naira", "Dollar", "Rand"],
+        "answer": "Cedi",
+        "image": null
+      },
+      {
+        "id": "q3",
+        "type": "fill-in",
+        "difficulty": "easy",
+        "question": "Ghana gained independence in the year ____.",
+        "answer": "1957",
+        "image": null
+      },
+      {
+        "id": "q4",
+        "type": "multiple-choice",
+        "difficulty": "easy",
+        "question": "Which of these is a public university in Ghana?",
+        "options": ["KNUST", "Oxford", "Harvard", "Yale"],
+        "answer": "KNUST",
+        "image": null
+      },
+      {
+        "id": "q5",
+        "type": "fill-in",
+        "difficulty": "easy",
+        "question": "The largest man-made lake in Ghana is Lake ____.",
+        "answer": "VOLTA",
+        "image": null
+      },
+      {
+        "id": "q6",
+        "type": "multiple-choice",
+        "difficulty": "easy",
+        "question": "What is the name of Ghana's president as of 2024?",
+        "options": ["Akufo-Addo", "Mahama", "Rawlings", "Kufuor"],
+        "answer": "Akufo-Addo",
+        "image": null
+      },
+      {
+        "id": "q7",
+        "type": "fill-in",
+        "difficulty": "easy",
+        "question": "The name of Ghana's currency is the Ghana ____.",
+        "answer": "CEDI",
+        "image": null
+      },
+      {
+        "id": "q8",
+        "type": "multiple-choice",
+        "difficulty": "easy",
+        "question": "Which region is famous for kente weaving?",
+        "options": ["Ashanti", "Volta", "Northern", "Central"],
+        "answer": "Ashanti",
+        "image": null
+      },
+      {
+        "id": "q9",
+        "type": "fill-in",
+        "difficulty": "easy",
+        "question": "The official language of Ghana is ____.",
+        "answer": "ENGLISH",
+        "image": null
+      },
+      {
+        "id": "q10",
+        "type": "multiple-choice",
+        "difficulty": "easy",
+        "question": "Which of these is a Ghanaian food?",
+        "options": ["Fufu", "Pizza", "Biryani", "Sushi"],
+        "answer": "Fufu",
+        "image": null
+      },
+    
+      {
+        "id": "q11",
+        "type": "fill-in",
+        "difficulty": "hard",
+        "question": "The first President of Ghana was Dr. Kwame ____.",
+        "answer": "NKRUMAH",
+        "image": null
+      },
+      {
+        "id": "q12",
+        "type": "multiple-choice",
+        "difficulty": "hard",
+        "question": "Which year did Ghana become a republic?",
+        "options": ["1957", "1960", "1966", "1972"],
+        "answer": "1960",
+        "image": null
+      },
+      {
+        "id": "q13",
+        "type": "fill-in",
+        "difficulty": "hard",
+        "question": "The Akosombo Dam is built on the ____ River.",
+        "answer": "VOLTA",
+        "image": null
+      },
+      {
+        "id": "q14",
+        "type": "multiple-choice",
+        "difficulty": "hard",
+        "question": "Which scientist discovered the electron?",
+        "options": ["J.J. Thomson", "Newton", "Einstein", "Bohr"],
+        "answer": "J.J. Thomson",
+        "image": null
+      },
+      {
+        "id": "q15",
+        "type": "fill-in",
+        "difficulty": "hard",
+        "question": "The chemical symbol for Potassium is ____.",
+        "answer": "K",
+        "image": null
+      },
+      {
+        "id": "q16",
+        "type": "multiple-choice",
+        "difficulty": "hard",
+        "question": "Who is the author of 'Things Fall Apart'?",
+        "options": ["Wole Soyinka", "Chinua Achebe", "Ngugi", "Ayi Kwei Armah"],
+        "answer": "Chinua Achebe",
+        "image": null
+      },
+      {
+        "id": "q17",
+        "type": "multiple-choice",
+        "difficulty": "hard",
+        "question": "Which Ghanaian won the Nobel Peace Prize in 2001?",
+        "options": ["Rawlings", "Kufuor", "Kofi Annan", "Danquah"],
+        "answer": "Kofi Annan",
+        "image": null
+      },
+      {
+        "id": "q18",
+        "type": "fill-in",
+        "difficulty": "hard",
+        "question": "The study of the earth's surface is called ____.",
+        "answer": "GEOGRAPHY",
+        "image": null
+      },
+      {
+        "id": "q19",
+        "type": "multiple-choice",
+        "difficulty": "hard",
+        "question": "Which of the following is NOT a programming language?",
+        "options": ["Python", "Java", "Linux", "C++"],
+        "answer": "Linux",
+        "image": null
+      },
+      {
+        "id": "q20",
+        "type": "fill-in",
+        "difficulty": "hard",
+        "question": "In Ghana, the legislature is known as the ____ of Parliament.",
+        "answer": "HOUSE",
+        "image": null
+      }
+    
+    
   ]
   
